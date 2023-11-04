@@ -1,2 +1,3 @@
 # Jarvis AI Assistant
-This is a virtual assistant made using python language. 
+Jarvis is a virtual assistant for your pc.
+It can complete tasks on voice command.
